@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavegacaoTelas</string>
+
+    <!-- TODO #5 Sempre trabalhe com as strings, crie uma string para cada nome da tela -->
+
+    <string name="tela1">Ir para a tela 1</string>
+    <string name="tela2">Ir para a tela 2</string>
+    <string name="tela3">Ir para a tela 3</string>
+
+    <string name="nome_tela_1">Tela 1</string>
+    <string name="nome_tela_2">Tela 2</string>
+    <string name="nome_tela_3">Tela 3</string>
+</resources>
